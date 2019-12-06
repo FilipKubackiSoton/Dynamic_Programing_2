@@ -19,6 +19,8 @@ public class Main {
             towers[0].add(i);
         }
 
+        System.out.print("Hello git user");
+
         towers[0].moveDisks(n, towers[2],towers[1]);
 
     }
