@@ -20,6 +20,12 @@ public class Main {
         }
 
         System.out.print("Hello git user");
+        System.out.print("Hello git user");
+
+        System.out.print("Hello git user");
+
+        System.out.print("Hello git user");
+
 
         towers[0].moveDisks(n, towers[2],towers[1]);
 
